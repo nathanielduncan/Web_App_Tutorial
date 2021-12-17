@@ -7,3 +7,6 @@ Step 2 is here: https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pag
 	Finished (12/17)
 
 Step 3 is here: https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/page?view=aspnetcore-2.1&tabs=visual-studio
+	Finished (12/17)
+
+Step 4 is here: https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/sql?view=aspnetcore-2.1&tabs=visual-studio
