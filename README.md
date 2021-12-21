@@ -13,3 +13,6 @@ Step 4 is here: https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pag
 	Finished (12/21)
 
 Step 5 is here: https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/da1?view=aspnetcore-2.1
+	Finished (12/21)
+
+Step 6 is here: https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/search?view=aspnetcore-2.1
